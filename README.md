@@ -18,7 +18,7 @@
 
 <details> <summary>VM YACLOUD</summary>
 
-![task1](https://github.com/biparasite/DB-12-06HW/blob/main/task_1.png "task1")
+![task1](https://github.com/biparasite/VIRT-01-HW/blob/main/task_1.png "task1")
 
 </details>
 
